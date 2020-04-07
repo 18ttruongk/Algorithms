@@ -1,2 +1,2 @@
 # Algorithms
-This repo contains various implementations of standard algorithms.
+This repo contains implementations of standard algorithms.
